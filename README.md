@@ -3,12 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/gspvsr?label=Follow&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/gspvsr" target="_blank">
-    <img src="https://img.shields.io/github/stars/gspvsr?style=social" alt="GitHub Stars" />
-  </a>
+  <img src="https://img.shields.io/github/stars/gspvsr?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -50,16 +45,16 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gspvsr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gspvsr&show_icons=true&locale=en&layout=compact&hide_title=true&hide=stars,forks" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gspvsr&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gspvsr&show_icons=true&locale=en&hide_title=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gspvsr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gspvsr&hide_title=true" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">About Me:</h3>
 <p align="center">
-  I’m a DevOps Engineer with over 10 years of experience specializing in cloud infrastructure, CI/CD pipelines, and automation. I am passionate about solving complex challenges and improving processes through innovative solutions.
+  I’m a DevOps Engineer with over 10 years of experience specializing in cloud infrastructure, CI/CD pipelines, and automation. I am passionate about solving complex challenges and enhancing processes through innovative solutions.
 </p>
