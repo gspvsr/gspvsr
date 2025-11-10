@@ -124,5 +124,5 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/gspvsr">shamailabbas</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/gspvsr">gsp</a> with ❤️</i>
 </div>
